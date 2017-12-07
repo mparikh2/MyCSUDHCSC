@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">MyCSUDHCSC</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="subject_spinner_title">Subject</string>
+    <string name="channel_spinner_title">Channel</string>
+    <string name="request_reply">Request Reply</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_photos">College Web Site</string>
+    <string name="nav_movies">Faculty Directory</string>
+    <string name="nav_notifications">Programs List</string>
+    <string name="nav_settings">Feedback</string>
+    <string name="nav_academicCalendar">Acedamic Calendars</string>
+    <string name="nav_about_us">About Us</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Home</item>
+        <item>College Web Site</item>
+        <item>Faculty Directory</item>
+        <item>Programs List</item>
+        <item>Acedamic Calendars</item>
+        <item>Feedback</item>
+    </string-array>
+
+    <string name="activity_title_about_us">About Us</string>
+    <string name="activity_title_privacy_policy">Privacy Policy</string>
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_mark_all_read">Mark All as Read</string>
+    <string name="privacy_policy">Contact Us</string>
+
+    <string name="maps">Maps</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Other channel titles -->
+    <string name="home_title">Home</string>
+    <string name="collegewebsite_title">College Web Site</string>
+    <string name="facultydirectory_title">Faculty Directory</string>
+    <string name="programslist_title">Programs List</string>
+    <string name="acedamiccalendar_title">Acedamic Calendar</string>
+    <string name="feedbackus_title">Feedback</string>
+    <string name="about_us_title">About Us</string>
+    <string name="contact_us_title">Contact Us</string>
+    <string name="maps_title">Maps</string>
+
+    <string name="about_text1">MyCSUDH CSC is an open-source project developed by Milind Parikh, Karan Puniani, Ishu Juneja</string>
+    <string name="about_text2">Visit us on GitHub at github.com/mparikh2</string>
+    <string name="about_text3">MyCSUDH CSC for Android uses the following open-source libraries:</string>
+    <string name="about_text4">Picasso</string>
+    <string name="about_text5">Glide</string>
+    <string name="about_text6">
+        <a href="https://github.com/google/volley"></a>Volley</string>
+</resources>
